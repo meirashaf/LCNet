@@ -10,7 +10,7 @@ import torch.nn as nn
 # from src.core import register
 import sys
 
-__all__ = ['LCNet']
+# __all__ = ['LCNet']
 
 
 # k, in_c, out_c, s, use_se
